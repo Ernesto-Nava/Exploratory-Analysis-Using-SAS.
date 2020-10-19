@@ -6,9 +6,9 @@ The overall objective of this project was to explore the data set provided and i
 
 # SAS 
 The SAS procedures and steps that I used to conduct EDA and hypothesis testing for this project include the following: 
-PROC SQL 
-PROC MEANS
-PROC TABULATE 
-PROC SGPLOT 
-PROC TTEST 
+PROC SQL,
+PROC MEANS,
+PROC TABULATE, 
+PROC SGPLOT, 
+PROC TTEST, 
 PROC CORR
